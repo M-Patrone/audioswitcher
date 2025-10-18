@@ -1,0 +1,5 @@
+/target
+vital.db
+dest_npmrc
+vsts_rust.log
+cmd_settings_backup.json
